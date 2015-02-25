@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diet Drafter</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="app_settings">Ustawienia</string>
+    <string name="user_configuration">Użytkownik</string>
+</resources>

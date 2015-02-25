@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/BaseActionBarStyle</item>
+        <item name="android:actionButtonStyle">@style/BaseActionButtonStyle</item>
+
+        <item name="actionBarStyle">@style/BaseActionBarStyle</item>
+        <item name="actionButtonStyle">@style/BaseActionButtonStyle</item>
+
+    </style>
+
+    <style name="BaseActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/blueish</item>
+
+        <item name="background">@color/blueish</item>
+
+    </style>
+
+    <style name="BaseActionButtonStyle" parent="Widget.AppCompat.ActionButton">
+        <item name="android:actionBarItemBackground">@drawable/actionbar_btn_selector</item>
+        <item name="android:actionBarDivider">@color/white</item>
+
+        <item name="actionBarItemBackground">@drawable/actionbar_btn_selector</item>
+        <item name="actionBarDivider">@color/white</item>
+
+    </style>
+
+</resources>
